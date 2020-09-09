@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Mediumish',
+  title: 'Package Propose',
   base: '/vuepress-theme-mediumish/',
   description: 'Blog example for Mediumish theme with VuePress',
   logo: './assets/img/logo.png',
